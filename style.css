@@ -1,0 +1,215 @@
+
+body {
+	background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+	linear-gradient(127deg, rgba(0,255,0,.8), rgba(230, 141, 8, 0) 70.71%),
+	linear-gradient(336deg, rgba(20, 127, 65, 0.8), rgba(0,0,255,0) 70.71%);
+	padding-bottom: 45px;
+	padding-top: 35px;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 20px;
+}
+
+.mw {
+	margin-inline: auto;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #FFFAFA;
+	border-radius: 25px;
+	width: 300px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+.label {
+	text-align: center;
+}
+
+a {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+
+a:hover {
+	color: #00CED1;
+	font-display: swap;
+		transition: all.3s;
+}
+
+.buy {
+	color: #ffffff;
+	font-size: 50px bold;
+	font-family: 'Mulish', sans-serif;
+	padding: 8px;
+	position: static;
+	padding-bottom: 10px;
+	border-radius: 75%;
+	background-color: #d46f8b;
+}
+
+/* Карточки переключалки */
+.prodct-small-img img
+{
+	text-align: center;
+	padding: 2px;
+	border-radius: 15px;
+	height: 49px;
+	margin: 10px 0;
+	cursor: block;
+	display: flex;
+	opacity: .7;
+}
+.prodct-small-img img:hover
+{
+
+transform: scale(1.2);
+opacity: 1;
+transition: 200ms;
+}
+.prodct-small-img 
+{
+	margin: auto;
+	float: left;
+}
+.img-container img, .img-container1 img, .img-container2 img, .img-container3 img, .img-container4 img, 
+.img-container5 img,.img-container6 img,.img-container7 img, .img-container8 img, .img-container9 img ,
+.img-container10 img,.img-container11 img, .img-container12 img, .img-container13 img, .img-container14 img, 
+.img-container15 img, .img-container16 img
+{
+
+	float: right;
+	width: 100%;
+
+	
+}
+
+.img-container img:hover
+{	
+	transition: 50ms;
+transform: translateX(115%) scale(2.5);
+}
+
+.img-container1 img:hover
+{	
+	transition: 50ms;
+	transform: scale(2.5);
+}
+.img-container2 img:hover
+{	
+	transition: 50ms;
+transform: translateX(-105%) scale(2.5);
+}
+
+.img-container3 img:hover
+{	
+	transition: 50ms;
+	transform: translateX(110%) scale(2.5);
+}
+
+.img-container4 img:hover
+{	
+	transition: 50ms;
+transform:scale(2.5);
+}
+.img-container5 img:hover
+{	
+	transition: 50ms;
+transform: translateX(-110%) scale(2.5);
+}
+
+.img-container6 img:hover
+{	
+	transition: 50ms;
+	transform: translateX(110%) scale(2.5);
+}
+
+.img-container7 img:hover
+{	
+	transition: 50ms;
+transform:scale(2.5);
+}
+.img-container8 img:hover
+{	
+	transition: 50ms;
+transform: translateX(-110%) scale(2.5);
+}
+
+.img-container9 img:hover
+{	
+	transition: 50ms;
+	transform: translateX(110%) scale(2.5);
+}
+
+.img-container10 img:hover
+{	
+	transition: 50ms;
+transform:scale(2.5);
+}
+.img-container11 img:hover
+{	
+	transition: 50ms;
+transform: translateX(-110%) scale(2.5);
+}
+.img-container12 img:hover
+{	
+	transition: 50ms;
+	transform: translateX(110%) scale(2.5);
+}
+
+.img-container13 img:hover
+{	
+	transition: 50ms;
+transform:scale(2.5);
+}
+.img-container11 img:hover
+{	
+	transition: 50ms;
+transform: translateX(-110%) scale(2.5);
+}
+
+.img-container14 img:hover
+{	
+	transition: 50ms;
+	transform: translateX(110%) scale(2.5);
+}
+
+.img-container15 img:hover
+{	
+	transition: 50ms;
+transform:scale(2.5);
+}
+.img-container16 img:hover
+{	
+	transition: 50ms;
+transform: translateX(-110%) scale(2.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .img-container 
+{
+	overflow: hidden;
+} */
+
+/* Stars */
